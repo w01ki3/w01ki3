@@ -6,7 +6,8 @@
     <tbody>
       <tr align="center">
         <td>
-          <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="width: 75px;">
+          <img src="img/linux.png" style="width: 75px;">
+          <img src="img/php.png" style="width: 75px;">
         </td>
         <td>
           I am a developer
@@ -17,7 +18,7 @@
       <tr align="center">
         <td>I like working with php's best framework</td>
         <td>
-        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" style="width: 175px;">
+          <img src="img/laravel.svg" style="width: 175px;">
         </td>
       </tr>
       <tr align="center">
@@ -25,9 +26,9 @@
           <img src="img/vkIcon.png" style="width: 75px;">
         </td> 
         <td>
-          my nickname is w01ki3
+          My nickname is w01ki3
           <br>
-          and my personal logo on the left
+          And my personal logo on the left
           <br>
           And this is my only social media account; https://tr.linkedin.com/in/volkan-karaoglu
         </td>
@@ -35,6 +36,7 @@
     </tbody>
   </table>
 </div>
+
 <hr>
 
 >That's all for now.
