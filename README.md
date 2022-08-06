@@ -41,7 +41,7 @@
           <br>
           And my personal logo on the right
           <br>
-          And this is my only social media account; https://tr.linkedin.com/in/volkan-karaoglu
+          And this is my only social media account;<br> https://tr.linkedin.com/in/volkan-karaoglu
         </td>
         <td>
           <img src="img/vkIcon.png" style="width: 75px;">
