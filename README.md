@@ -23,28 +23,14 @@
       </tr>
       <tr align="center">
         <td>
-          <img src="img/logo192.png" style="width: 75px;">
-        </td>
+<img src="img/vkIcon.png" style="width: 75px;">
+          </td>
         <td>
-          after a few vue experiences
+My nickname is w01ki3
           <br>
-          I started learning React.
-          <br>
-          can i do this?
-          <br>
-          We'll see.
-        </td>
-      </tr>
-      <tr align="center">
-        <td>
-          My nickname is w01ki3
-          <br>
-          And my personal logo on the right
+          And my personal logo on the left
           <br>
           And this is my only social media account;<br> https://tr.linkedin.com/in/volkan-karaoglu
-        </td>
-        <td>
-          <img src="img/vkIcon.png" style="width: 75px;">
         </td> 
       </tr>
     </tbody>
