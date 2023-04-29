@@ -29,8 +29,6 @@
 My nickname is w01ki3
           <br>
           And my personal logo on the left
-          <br>
-          And this is my only social media account;<br> https://tr.linkedin.com/in/volkan-karaoglu
         </td> 
       </tr>
     </tbody>
