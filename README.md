@@ -37,7 +37,7 @@ My nickname is w01ki3
 
 <hr>
 
->That's all for now.
+<img src="img/github-user-contribution.svg">
 
 
 
