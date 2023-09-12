@@ -1,10 +1,10 @@
 ### Hi there 👋
 <hr>
 
-<div style="text-align: center;">
+<div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tbody>
-      <tr>
+      <tr align="center">
         <td>
           <img src="img/linux.png" style="width: 75px;">
           <img src="img/php.png" style="width: 75px;">
@@ -13,14 +13,14 @@
           I am a developer <br> and passionate about open source, Linux, PHP.
         </td>
       </tr>
-      <tr>
+      <tr align="center">
         <td>
           I like working with php's best framework</td>
         <td>
           <img src="img/laravel.svg" style="width: 175px;">
         </td>
       </tr>
-      <tr>
+      <tr align="center">
         <td>
             <img src="img/vkIcon.png" style="width: 75px;">
         </td>
