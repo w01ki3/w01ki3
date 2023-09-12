@@ -1,34 +1,31 @@
 ### Hi there 👋
 <hr>
 
-<div align="center">
-  <table align="center" style="margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+  <table style="margin-left: auto; margin-right: auto;">
     <tbody>
-      <tr align="center">
+      <tr>
         <td>
           <img src="img/linux.png" style="width: 75px;">
           <img src="img/php.png" style="width: 75px;">
         </td>
         <td>
-          I am a developer
-          <br>
-          and passionate about open source, Linux, PHP.
+          I am a developer <br> and passionate about open source, Linux, PHP.
         </td>
       </tr>
-      <tr align="center">
-        <td>I like working with php's best framework</td>
+      <tr>
+        <td>
+          I like working with php's best framework</td>
         <td>
           <img src="img/laravel.svg" style="width: 175px;">
         </td>
       </tr>
-      <tr align="center">
+      <tr>
         <td>
-<img src="img/vkIcon.png" style="width: 75px;">
-          </td>
+            <img src="img/vkIcon.png" style="width: 75px;">
+        </td>
         <td>
-My nickname is w01ki3
-          <br>
-          And my personal logo on the left
+          My nickname is w01ki3 <br> And my personal logo on the left
         </td> 
       </tr>
     </tbody>
@@ -37,25 +34,10 @@ My nickname is w01ki3
 
 <hr>
 
-<img src="img/github-user-contribution.svg">
-
-
-
-
-
-
-
-<!--
-**w01ki3/w01ki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="img/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
