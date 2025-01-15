@@ -25,7 +25,7 @@
             <img src="img/vkIcon.png" style="width: 75px;">
         </td>
         <td>
-          My nickname is w01ki3 <br> And my personal logo on the left
+          my personal logo on the left
         </td> 
       </tr>
     </tbody>
