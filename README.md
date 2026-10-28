@@ -1,43 +1,15 @@
-### Hi there 👋
-<hr>
-
 <div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tbody>
-      <tr align="center">
-        <td>
-          <img src="img/linux.png" style="width: 75px;">
-          <img src="img/php.png" style="width: 75px;">
-        </td>
-        <td>
-          I am a developer <br> and passionate about open source, Linux, PHP.
-        </td>
-      </tr>
-      <tr align="center">
-        <td>
-          I like working with php's best framework</td>
-        <td>
-          <img src="img/laravel.svg" style="width: 175px;">
-        </td>
-      </tr>
-      <tr align="center">
-        <td>
-            <img src="img/vkIcon.png" style="width: 75px;">
-        </td>
-        <td>
-          my personal logo on the left
-        </td> 
-      </tr>
-    </tbody>
-  </table>
+
+  <img src="img/vkIcon.png" width="48" alt="Logo" />
+
+  <h3 style="margin-top: 8px; margin-bottom: 16px; font-weight: 600;">PHP Developer</h3>
+
+  <div style="max-width: 600px; margin: 0 auto;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="img/github-snake.svg" />
+      <img alt="github-snake" src="github-snake.svg" style="width: 100%; height: auto; display: block;" />
+    </picture>
+  </div>
+
 </div>
-
-<hr>
-
-<!-- <div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="img/github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div> -->
